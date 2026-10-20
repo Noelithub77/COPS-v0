@@ -1,6 +1,6 @@
 # COPS (Frontend)
 
-**COPS** (Codeforce Only Protection System)'s frontend client that ensures your PC's network rules comply with contest requirements during the contest period.
+**COPS** (Codeforce Only Proctoring System)'s frontend client that ensures your PC's network rules comply with contest requirements during the contest period.
 
 ## Features
 
